@@ -1,2 +1,2 @@
 # boto-polly-creater
-boto polly creater description
+boto polly creater repository
